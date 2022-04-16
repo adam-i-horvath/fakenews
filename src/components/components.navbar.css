@@ -1,0 +1,21 @@
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 12px;
+    
+}
+
+li > a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    background-color: #2b2d42;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+}

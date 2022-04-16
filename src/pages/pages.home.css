@@ -1,0 +1,9 @@
+.home {
+    margin: 0 auto;
+    padding: 12px;
+}
+
+.home_l1, .home_l2, .home_l3, .home_l4, .home_l5 {
+    padding: 12px;
+    text-align: justify;
+}
